@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <a href="mailto:ash.gupta113@gmail.com"><img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white"/></a>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/ashutoshguptaaz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="mailto:ash.gupta113@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
   <a href="https://leetcode.com/u/user5609iP"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
@@ -18,6 +22,14 @@
 - Built a **RAG pipeline** achieving 90%+ answer relevance for document Q&A using LangChain, ChromaDB & Llama 3.1
 - Experienced in **LLM integration**, **vector databases**, **JWT auth**, and **serverless AWS** architecture
 - B.Tech CSE @ Amity University, Lucknow (Expected 2026) | CGPA: 7.5
+
+---
+
+### GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AshuGuptaz&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
+</p>
 
 ---
 
@@ -98,6 +110,10 @@ Secure cloud file management system with enterprise-grade access control.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AshuGuptaz&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshuGuptaz&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
 </p>
 
 ### Contribution Snake
