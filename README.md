@@ -25,57 +25,14 @@
 
 ---
 
-### GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AshuGuptaz&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
-</p>
-
----
-
 ### Tech Stack
 
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Backend & Frameworks**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
-
-**AI / ML**
-
-![RAG](https://img.shields.io/badge/RAG_Pipeline-8B5CF6?style=flat)
-![LLM](https://img.shields.io/badge/LLM_Integration-FF6F00?style=flat)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4154?style=flat)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00BCD4?style=flat)
-
-**Cloud (AWS)**
-
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazons3&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat&logo=amazonaws&logoColor=white)
-![AWS Kendra](https://img.shields.io/badge/AWS_Kendra-FF9900?style=flat&logo=amazonaws&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB_(Vector)-FF4154?style=flat)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,spring,fastapi,mysql,postgres,aws,docker,git,github,postman,maven&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=hibernate,linux,vscode,idea&theme=dark" />
+</p>
 
 ---
 
