@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Ashutosh%20Gupta&fontSize=50&animation=fadeIn&fontColor=ffffff&desc=Backend%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%7C%20AWS%20%7C%20AI%2FML&descSize=18&descAlignY=75)
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+AWS;Building+RAG+Pipelines+%F0%9F%A4%96;LLM+Integration+%7C+Vector+DBs;Open+to+Opportunities+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+AWS;Building+RAG+Pipelines;LLM+Integration+%7C+Vector+DBs;Open+to+Opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
