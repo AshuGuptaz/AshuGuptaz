@@ -19,7 +19,7 @@
 
 ### 🧠 About Me
 
-- 🔭 **SWE Intern @ VIAVI Solutions** — Spring Boot APIs for enterprise network monitoring + AI-driven anomaly detection
+- 🔭 **SWE @ VIAVI Solutions** — Spring Boot APIs for enterprise network monitoring + AI-driven anomaly detection
 - ⚙️ Built **[Vex](https://github.com/AshuGuptaz/Vex)**, a vector database implementing HNSW from the original paper (Malkov & Yashunin, 2016) — **0.97 recall@10** on SIFT-1M, mmap persistence + WAL, int8 quantization
 - 🍰 Shipped **[The Taste Makerrs](https://tastemakerrs.vercel.app)**, a production e-commerce platform — Next.js 14, dual payment gateways (Razorpay + Stripe), OTP-based accounts, live order tracking
 - 🤖 Built a **RAG pipeline** achieving **90%+ answer relevance** using LangChain, ChromaDB & Llama 3.1
