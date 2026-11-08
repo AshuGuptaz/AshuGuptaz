@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Ashutosh%20Gupta&fontSize=50&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%7C%20Next.js%20%C2%B7%20AWS&descSize=16&descAlignY=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Ashutosh%20Gupta&fontSize=50&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%7C%20Next.js%20%C2%B7%20AWS&descSize=16&descAlignY=75)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Next.js;Built+a+Vector+DB+from+the+HNSW+Paper;RAG+Pipelines+%7C+LLM+Integration;Open+to+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=560&lines=Software+Engineer;Java+%7C+Spring+Boot+%7C+Next.js;Built+a+Vector+DB+from+the+HNSW+Paper;RAG+Pipelines+%7C+LLM+Integration" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="mailto:ash.gupta113@gmail.com"><img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white"/></a>
+  <a href="mailto:ash.gupta113@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-6366f1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 - ⚙️ Built **[Vex](https://github.com/AshuGuptaz/Vex)**, a vector database implementing HNSW from the original paper (Malkov & Yashunin, 2016) — **0.97 recall@10** on SIFT-1M, mmap persistence + WAL, int8 quantization
 - 🍰 Shipped **[The Taste Makerrs](https://tastemakerrs.vercel.app)**, a production e-commerce platform — Next.js 14, dual payment gateways (Razorpay + Stripe), OTP-based accounts, live order tracking
 - 🤖 Built a **RAG pipeline** achieving **90%+ answer relevance** using LangChain, ChromaDB & Llama 3.1
-- 🎓 B.Tech CSE @ Amity University, Lucknow (Expected 2026) · CGPA 7.5
+- 🎓 B.Tech CSE @ Amity University, Lucknow (2026) · CGPA 7.5
 
 ---
 
@@ -126,14 +126,6 @@ A premium bakery storefront, built and shipped end-to-end.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshuGuptaz&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AshuGuptaz&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshuGuptaz&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
-</p>
-
 ### 🐍 Contribution Snake
 
 <picture>
@@ -150,9 +142,5 @@ A premium bakery storefront, built and shipped end-to-end.
 - Java (Basic) — HackerRank
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AshuGuptaz&color=6366f1&style=flat&label=Profile+Views"/>
-</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer)
