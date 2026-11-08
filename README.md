@@ -49,7 +49,8 @@ Implements HNSW end-to-end from the paper — not a wrapper around FAISS.
 <td width="50%" valign="top">
 
 #### 🍰 [The Taste Makerrs](https://github.com/AshuGuptaz/tastemakerrs)
-<!-- screenshot: <img src="assets/tastemakerrs.png" alt="..." width="100%"/> -->
+<a href="https://tastemakerrs.vercel.app"><img src="assets/tastemakerrs.png" alt="The Taste Makerrs homepage: Cakes worth remembering" width="100%"/></a>
+
 **Full-stack e-commerce, live in production**
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
