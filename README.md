@@ -1,18 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Ashutosh%20Gupta&fontSize=50&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%7C%20Next.js%20%C2%B7%20AWS&descSize=16&descAlignY=75)
+![Ashutosh Gupta, Software Engineer banner](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Ashutosh%20Gupta&fontSize=50&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%7C%20Next.js%20%C2%B7%20AWS&descSize=16&descAlignY=75)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=560&lines=Software+Engineer;Java+%7C+Spring+Boot+%7C+Next.js;Built+a+Vector+DB+from+the+HNSW+Paper;RAG+Pipelines+%7C+LLM+Integration" alt="Typing SVG" />
+  <a href="mailto:ash.gupta113@gmail.com"><img alt="Get in touch" src="https://img.shields.io/badge/Get%20in%20touch-6366f1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <a href="mailto:ash.gupta113@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-6366f1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/ashutoshguptaaz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="mailto:ash.gupta113@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://leetcode.com/u/user5609iP"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/github/followers/AshuGuptaz?style=flat&logo=github&label=Followers&color=6366f1"/>
+  <a href="https://linkedin.com/in/ashutoshguptaaz"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="mailto:ash.gupta113@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://leetcode.com/u/user5609iP"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>&nbsp;
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/AshuGuptaz?style=flat&logo=github&label=Followers&color=6366f1"/>
 </p>
 
 ---
@@ -27,20 +23,6 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,typescript,nextjs,react,tailwind&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,mysql,postgres,aws&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,idea&theme=dark" />
-</p>
-
----
-
 ### 🚀 Featured Projects
 
 <table width="100%">
@@ -48,6 +30,7 @@
 <td width="50%" valign="top">
 
 #### 🧬 [Vex](https://github.com/AshuGuptaz/Vex)
+<!-- screenshot: <img src="assets/vex.png" alt="..." width="100%"/> -->
 **Vector database · HNSW from the original paper**
 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -66,6 +49,7 @@ Implements HNSW end-to-end from the paper — not a wrapper around FAISS.
 <td width="50%" valign="top">
 
 #### 🍰 [The Taste Makerrs](https://github.com/AshuGuptaz/tastemakerrs)
+<!-- screenshot: <img src="assets/tastemakerrs.png" alt="..." width="100%"/> -->
 **Full-stack e-commerce, live in production**
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -119,11 +103,53 @@ A premium bakery storefront, built and shipped end-to-end.
 
 ---
 
+### 🛠️ Tech Stack
+
+<p align="center">
+  <b>Backend</b><br/>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,python,fastapi&theme=light">
+    <img alt="Backend: java, spring, python, fastapi" src="https://skillicons.dev/icons?i=java,spring,python,fastapi&theme=dark">
+  </picture>
+</p>
+
+<p align="center">
+  <b>Frontend</b><br/>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=typescript,nextjs,react,tailwind&theme=light">
+    <img alt="Frontend: typescript, nextjs, react, tailwind" src="https://skillicons.dev/icons?i=typescript,nextjs,react,tailwind&theme=dark">
+  </picture>
+</p>
+
+<p align="center">
+  <b>Data &amp; Cloud</b><br/>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws&theme=light">
+    <img alt="Data &amp; Cloud: mongodb, mysql, postgres, aws" src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws&theme=dark">
+  </picture>
+</p>
+
+<p align="center">
+  <b>Tools</b><br/>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,git,github,postman,linux,idea&theme=light">
+    <img alt="Tools: docker, git, github, postman, linux, idea" src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,idea&theme=dark">
+  </picture>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshuGuptaz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshuGuptaz&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AshuGuptaz&show_icons=true&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=4f46e5&text_color=24292f&icon_color=6366f1">
+    <img alt="GitHub stats for AshuGuptaz" src="https://github-readme-stats.vercel.app/api?username=AshuGuptaz&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&icon_color=6366f1" height="160"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AshuGuptaz&layout=compact&hide_border=true&bg_color=ffffff&title_color=4f46e5&text_color=24292f&icon_color=6366f1">
+    <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshuGuptaz&layout=compact&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&icon_color=6366f1" height="160"/>
+  </picture>
 </p>
 
 ### 🐍 Contribution Snake
@@ -131,7 +157,7 @@ A premium bakery storefront, built and shipped end-to-end.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshuGuptaz/AshuGuptaz/main/snake/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AshuGuptaz/AshuGuptaz/main/snake/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/AshuGuptaz/AshuGuptaz/main/snake/github-contribution-grid-snake.svg">
+  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/AshuGuptaz/AshuGuptaz/main/snake/github-contribution-grid-snake.svg">
 </picture>
 
 ---
