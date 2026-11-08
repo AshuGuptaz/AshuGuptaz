@@ -108,9 +108,23 @@ A premium bakery storefront, built and shipped end-to-end.
 <p align="center">
   <b>Backend</b><br/>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,python,fastapi&theme=light">
-    <img alt="Backend: java, spring, python, fastapi" src="https://skillicons.dev/icons?i=java,spring,python,fastapi&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,fastapi&theme=light">
+    <img alt="Backend: java, spring, fastapi" src="https://skillicons.dev/icons?i=java,spring,fastapi&theme=dark">
   </picture>
+</p>
+
+<p align="center">
+  <b>AI &amp; ML</b><br/>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py&theme=light">
+    <img alt="Python" src="https://skillicons.dev/icons?i=py&theme=dark">
+  </picture><br/>
+  <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img alt="ChromaDB" src="https://img.shields.io/badge/-ChromaDB-FF6446?style=flat-square&logoColor=white"/>
+  <img alt="Llama 3.1" src="https://img.shields.io/badge/-Llama%203.1-0467DF?style=flat-square&logo=meta&logoColor=white"/>
+  <img alt="RAG" src="https://img.shields.io/badge/-RAG%20Pipelines-6366f1?style=flat-square"/>
+  <img alt="Vector Search" src="https://img.shields.io/badge/-Vector%20Search%20%C2%B7%20HNSW-6366f1?style=flat-square"/>
+  <img alt="LLM Integration" src="https://img.shields.io/badge/-LLM%20Integration-6366f1?style=flat-square"/>
 </p>
 
 <p align="center">
